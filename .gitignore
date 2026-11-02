@@ -1,0 +1,11 @@
+Math_Practice_Pictures/
+prepare_practice_repo.r
+prepare_practice_repo_log.txt
+*.rar
+*.zip
+.Rhistory
+.RData
+.Rproj.user/
+Thumbs.db
+desktop.ini
+Rplots.pdf
