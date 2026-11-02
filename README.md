@@ -117,7 +117,7 @@ Two sets of mixed questions on sections 1 to 4. The first set is C27 to C30.
 
 > Note on C29, tangents from an external point. My first attempt is crossed out. The correct solution writes the tangent at a general point (a, 4 + 3a &minus; a<sup>2</sup>) and substitutes the external point (5/2, 11/2), which gives a = 2 or a = 3.
 >
-> Note on C29, question 13. The critical point at t = 2/9 s is a local minimum, because d<sup>2</sup>s/dt<sup>2</sup> &gt; 0 there. A cubic with a positive leading coefficient has no maximum displacement, so the question should ask for the displacement at the critical point instead.
+> Note on C29, question 13. The critical point at t = 2/9 s is a local minimum, because d<sup>2</sup>s/dt<sup>2</sup> &gt; 0 there. A cubic with a positive leading coefficient has no maximum displacement. Hence, the question should ask for the displacement at the critical point instead.
 
 <p align="center"><img src="calculus/C29_spm_practice_q12_q13_corrected.jpg" width="49%"></p>
 
@@ -125,7 +125,7 @@ The end of the first set (C30) and the start of the second set (C31).
 
 <img src="calculus/C30_spm_practice_q14_to_q17.jpg" width="49%"> <img src="calculus/C31_paper2_q1_q2.jpg" width="49%">
 
-> Note on C33, question 7. My first answer worked out the exact change in H. The question asks for an estimate, so the correct solution uses &delta;H &asymp; (dH/dg) &times; &delta;g.
+> Note on C33, question 7. My first answer worked out the exact change in H. The question asks for an estimate, the correct solution thus uses &delta;H &asymp; (dH/dg) &times; &delta;g.
 
 <img src="calculus/C32_paper2_q3_to_q6.jpg" width="49%"> <img src="calculus/C33_paper2_q6_q7_error_estimate.jpg" width="49%">
 
@@ -200,7 +200,7 @@ Volumes of revolution about the x-axis, V = &int; &pi;y<sup>2</sup> dx, and abou
 
 <p align="center"><img src="calculus/C67_volume_of_revolution_q17_to_q19.jpg" width="49%"></p>
 
-> Note on C68. The volume about the y-axis, &int; &pi;x<sup>2</sup> dy, can only be used where the curve bounds the y-values. For y = x<sup>2</sup> + 2, the y-values from 0 to 2 are not bounded by the curve, so the volume has to be found by subtracting from a cylinder.
+> Note on C68. The volume about the y-axis, &int; &pi;x<sup>2</sup> dy, can only be used where the curve bounds the y-values. For y = x<sup>2</sup> + 2, the y-values from 0 to 2 are not bounded by the curve, hence the volume has to be found by subtracting from a cylinder.
 
 <p align="center"><img src="calculus/C68_volume_of_revolution_q19_q20.jpg" width="49%"></p>
 
