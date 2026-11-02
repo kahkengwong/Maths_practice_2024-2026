@@ -13,8 +13,7 @@
 
 ---
 
-- These are photos of my handwritten maths practice from 2024 to 2026, covering algebra, calculus and statistics.
-- I am an immunologist by training, and went back to maths in 2024 and worked through textbook sections and exercise sets by hand.
+- These are photos of my handwritten maths practice from 2024 to 2026, covering algebra, calculus and statistics; worked through textbook sections and exercise sets by hand.
 - I later applied this practice to the mathematics behind the CEP-IP framework, in [CEP-IP_maths_notes](https://github.com/kahkengwong/CEP-IP_maths_notes) and the R package [cepip](https://github.com/kahkengwong/cepip).
 - Notes are added only for the tricky questions and for my own corrections.
 - I am depositing the pages here so that I also have a softcopy for my own reference.
